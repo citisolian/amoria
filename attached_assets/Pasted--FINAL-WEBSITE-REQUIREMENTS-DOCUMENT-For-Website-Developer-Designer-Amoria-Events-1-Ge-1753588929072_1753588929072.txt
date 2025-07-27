@@ -1,0 +1,337 @@
+✅ FINAL WEBSITE REQUIREMENTS DOCUMENT
+
+For Website Developer/Designer – Amoria Events 
+
+1. 🧭 General Website Overview
+
+Purpose & Niche: A premium event styling and hire business providing photo booths, floral backdrops, balloon decor, food carts, event furniture hire, and personalized signage for events like weddings, engagements, bridal showers, birthdays, and baby showers.
+
+Brand Style: Luxury, modern elegance with a soft and romantic touch. The overall vibe should feel magical, stylish, and visually polished.
+
+2. 🗂️ Website Pages & Structure
+
+Main Menu Navigation (Desktop & Mobile)
+
+Home
+
+Photo Booths
+
+360 Booth
+
+Selfie Booth
+
+Food Carts
+
+Charcuterie Cart
+
+Dutch Pancakes
+
+Gol Gappa / Pani Puri
+
+Backdrops & Decor
+
+Floral Backdrops
+
+Balloon Arches
+
+Event Signage
+
+Event Furniture Hire
+
+Chairs
+
+Tables
+
+Plinths & Cake Stands
+
+Packages
+
+Gallery
+
+FAQs
+
+Contact Us
+
+Blog
+
+3. 🏡 Homepage Layout
+
+Sections (in this order):
+
+Hero Banner – Full-width image with soft overlay text and CTA button ("Get a Free Quote", "Book Now")
+
+Intro About Us – Short welcoming text about Amoria Events
+
+Our Services Grid – Icons or image blocks linking to:
+
+Floral Decor
+
+Balloon Decor
+
+Furniture Hire
+
+Backdrops
+
+Booths
+
+Food Carts
+
+Why Choose Us – Icons or badges (e.g. “100% Realistic Florals”, “Luxury Touch”)
+
+Gallery Teaser – Carousel or tiled 4–6 highlight photos
+
+Social Proof – Trusted by clients or featured in
+
+Contact CTA – Bookings or free quote section
+
+Instagram Feed – Live feed or styled IG image tiles
+
+Footer
+
+4. 🪄 Page Details
+
+➤ Photo Booths (2 subpages)
+
+Each includes:
+
+High-res images
+
+Feature list (HD camera, props, sharing station, backdrop, lighting)
+
+Pricing if available
+
+CTA: “Book Now” or “Enquire”
+
+➤ Food Carts
+
+Each cart page should contain:
+
+Description of cart style
+
+Menu or food items
+
+Personalization options (name decals, florals)
+
+Photos
+
+CTA: “Get Free Quote”
+
+➤ Backdrops & Decor
+
+Split into:
+
+Floral Backdrops (custom or pre-designed, images)
+
+Balloon Arches (color themes, single or double, ceiling balloons)
+
+Signage (vinyl, acrylic, welcome signs, seating charts)
+Include:
+
+Images for each
+
+Description (size, colors, setup)
+
+CTA button
+
+➤ Event Furniture Hire
+
+Includes:
+
+Tables (round, cocktail, rectangle)
+
+Chairs (white, gold, tiffany, ghost, kids’ chairs)
+
+Plinths & Stands (cake plinths, dessert stands, display risers)
+Page Layout:
+
+Image gallery
+
+Size & quantity
+
+Optional packages
+
+Booking CTA
+
+➤ Packages Page
+
+Display:
+
+Bronze, Silver, Gold packages
+
+Inclusions for each
+
+Price (or “Enquire for Pricing”)
+
+Add-ons & upgrades
+
+➤ Gallery Page
+
+Image-only grid (6–12 photos per section)
+
+Sections for each service (Floral, Booths, Furniture)
+
+Click to view enlarged or lightbox
+
+➤ FAQs Page
+
+Example questions:
+
+How far in advance should I book?
+
+Can I customize my floral colors?
+
+Do you deliver and install?
+
+Payment terms
+
+➤ Contact Page
+
+Form (Name, Email, Event Date, Type, Location, Message)
+
+WhatsApp Chat Button
+
+Map (optional)
+
+Contact Details (Phone, Email, Instagram link)
+
+Quick link to packages & FAQs
+
+➤ Blog Page
+
+Articles such as:
+
+“How to Choose the Right Backdrop for Your Event”
+
+“5 Reasons to Add a Selfie Booth”
+
+“Luxury Event Styling Tips”
+
+5. 🎨 Style & Branding
+
+Primary Colors:
+
+Soft gold (#D4AF37)
+
+White (#FFFFFF)
+
+Black (#000000)
+
+Optional accent: blush pink or soft beige
+
+Fonts:
+
+Heading: Elegant serif or script
+
+Body text: Modern clean sans-serif
+
+Logo:
+
+Centered on mobile, left on desktop
+
+Clean gold on black or white background
+
+Include logo placeholder in header/footer
+
+Image Style:
+
+High quality, professional
+
+Natural lighting, soft backgrounds
+
+No watermarks
+
+6. 🧱 Header and Footer
+
+Header:
+
+Logo (left)
+
+Navigation links
+
+CTA Button (Book Now)
+
+Social icons (Instagram, WhatsApp, TikTok)
+
+Mobile: sticky hamburger menu
+
+Footer:
+
+Repeated navigation
+
+Social links
+
+Contact info
+
+Newsletter signup
+
+Payment icons (Visa, PayPal, Apple Pay)
+
+Links to Privacy Policy & Terms
+
+7. 💻 Functional Features
+
+Booking/Enquiry Forms (on each service page and main Contact)
+
+WhatsApp Chat Icon
+
+Instagram Feed Plugin
+
+Image Lightbox for Gallery
+
+Sticky Navigation on Scroll
+
+Mobile Optimized Menu
+
+Cookie Consent Banner
+
+8. 📱 Responsive Design
+
+Must look perfect across:
+
+iPhone/Android
+
+iPad/tablets
+
+Desktop
+
+Hero banners scale smoothly
+
+Fonts readable at all screen sizes
+
+Menus collapse on mobile
+
+9. 🛠️ Tech Recommendations
+
+Platform: WordPress + Elementor or Shopify
+
+Plugins:
+
+MetaSlider (for homepage banners)
+
+WPForms or Contact Form 7 (for contact/quote)
+
+Smash Balloon (for Instagram feed)
+
+Lightbox Gallery Plugin
+
+CookieYes (cookie consent)
+
+WhatsApp Chat Button plugin
+
+JetPack or RankMath for SEO & security
+
+10. 📌 Final Summary for Developer
+
+Create a luxury, modern, mobile-optimized event website with these must-have features:
+
+Beautiful home page with services grid and gallery
+
+Separate detailed pages for floral decor, booths, food carts, and furniture
+
+Full responsive design
+
+Easy to update blog and image galleries
+
+Quote/booking form on every service page
+
+Consistent brand styling across the site.
